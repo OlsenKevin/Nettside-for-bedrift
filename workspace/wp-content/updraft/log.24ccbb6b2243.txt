@@ -1,0 +1,486 @@
+0000.000 (0) Opened log file at time: Tue, 30 May 2017 16:11:38 +0000 on https://smartmaskinering-ttgmagnus.c9users.io
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.1 WP: 4.7.5 PHP: 5.5.9-1ubuntu4.21 (apache2handler, Linux ttgmagnus-smartmaskinering-4522556 4.9.17-c9 #1 SMP Thu Mar 23 01:38:54 UTC 2017 x86_64) MySQL: 5.5.54 WPLANG: nb_NO Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.5M | 15.3M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 1894.2 MB
+0000.019 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.091 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.104 (0) Set semaphore last lock (fd) time to 2017-05-30 16:11:38
+0000.109 (0) Semaphore lock (fd) complete
+0000.128 (0) Backup run: resumption=0, nonce=24ccbb6b2243, begun at=1496160698 (0s ago), job type=backup
+0000.138 (0) Scheduling a resumption (1) after 300 seconds (1496160998) in case this run gets aborted
+0000.149 (0) Checking if we have a zip executable available
+0000.153 (0) Testing: /usr/bin/zip
+0000.163 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.169 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.173 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.177 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.181 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.190 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.196 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.202 (0) Working binary zip found: /usr/bin/zip
+0000.212 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.216 (0) Creation of backups of directories: beginning
+0000.232 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.414 (0) Total entities for the zip file: 374 directories, 2468 files (0 skipped as non-modified), 39.3 MB
+0000.427 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.440 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.452 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.464 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.475 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.481 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.9 MB, 2468 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.936 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: size is now: 2.20 MB
+0000.953 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 600 files added (on-disk size: 2294.8 KB)
+0000.968 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 700 files added (on-disk size: 2294.8 KB)
+0000.979 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 800 files added (on-disk size: 2294.8 KB)
+0000.990 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 900 files added (on-disk size: 2294.8 KB)
+0001.004 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1000 files added (on-disk size: 2294.8 KB)
+0001.011 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.5 MB, 2468 files batched, 501 (1002) added so far); re-opening (prior size: 2294.8 KB)
+0001.814 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: size is now: 6.40 MB
+0001.834 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1100 files added (on-disk size: 6600.2 KB)
+0001.848 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1200 files added (on-disk size: 6600.2 KB)
+0001.860 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1300 files added (on-disk size: 6600.2 KB)
+0001.880 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1400 files added (on-disk size: 6600.2 KB)
+0001.893 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1500 files added (on-disk size: 6600.2 KB)
+0001.900 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.2 MB, 2468 files batched, 501 (1503) added so far); re-opening (prior size: 6600.2 KB)
+0002.618 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: size is now: 8.70 MB
+0002.637 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1600 files added (on-disk size: 8929.7 KB)
+0002.653 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1700 files added (on-disk size: 8929.7 KB)
+0002.668 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1800 files added (on-disk size: 8929.7 KB)
+0002.694 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 1900 files added (on-disk size: 8929.7 KB)
+0002.720 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 2000 files added (on-disk size: 8929.7 KB)
+0002.726 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (13.8 MB, 2468 files batched, 501 (2004) added so far); re-opening (prior size: 8929.7 KB)
+0004.121 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: size is now: 12.80 MB
+0004.142 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 2100 files added (on-disk size: 13157.6 KB)
+0004.158 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 2200 files added (on-disk size: 13157.6 KB)
+0004.171 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 2300 files added (on-disk size: 13157.6 KB)
+0004.183 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip.tmp: 2400 files added (on-disk size: 13157.6 KB)
+0005.073 (0) Created plugins zip (0) - 13876.3 KB in 4.8 s (2870.1 KB/s) (sha1: cbce945d00a4db3eeaf7d4d7c5dab79f11970761, sha256: 280271551b049a56d3af2ad8da73e4457008b5ebc6eec4bc3004e546d4b04383)
+0005.089 (0) Beginning creation of dump of themes (split every: 400 MB)
+0005.106 (0) Total entities for the zip file: 6 directories, 46 files (0 skipped as non-modified), 1.9 MB
+0005.148 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip.tmp: size is now: 1.70 MB
+0005.197 (0) Created themes zip (0) - 1690.2 KB in 0.1 s (16802.4 KB/s) (sha1: d30f9ac487f2799dc2e2bd5a52d9caeb9da05af4, sha256: 539550df891bb9ba3a8e9d6f8672d3d8227c8bc2837dc0cbb913121fc67da6ab)
+0005.212 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0005.217 (0) Looking for candidates to back up in: /home/ubuntu/workspace/wp-content/uploads
+0005.221 (0) finding files: elementor: adding to list (1)
+0005.229 (0) finding files: 2017: adding to list (2)
+0005.235 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0005.260 (0) Total entities for the zip file: 7 directories, 191 files (0 skipped as non-modified), 8.9 MB
+0005.276 (0) Zip: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0005.625 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip.tmp: size is now: 8.90 MB
+0005.784 (0) Created uploads zip (0) - 9159.2 KB in 0.5 s (16874.4 KB/s) (sha1: 906d403c41ba8102eb15dc7c5b581ab652f8c2c7, sha256: 773ea2709184ff856a1b7a35df08767d1a33331b3479bef15de337d612c81a9f)
+0005.803 (0) Beginning backup of other directories found in the content directory (index: 0)
+0005.808 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0005.813 (0) Looking for candidates to back up in: /home/ubuntu/workspace/wp-content
+0005.819 (0) finding files: upgrade: skipping: excluded by options
+0005.824 (0) finding files: cache: skipping: excluded by options
+0005.829 (0) finding files: plugins: skipping: this is the plugins directory
+0005.836 (0) finding files: uploads: skipping: this is the uploads directory
+0005.845 (0) finding files: updraft: skipping: this is the updraft directory
+0005.851 (0) finding files: languages: adding to list (1)
+0005.856 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0005.860 (0) finding files: wflogs: adding to list (2)
+0005.865 (0) finding files: themes: skipping: this is the themes directory
+0005.871 (0) finding files: index.php: adding to list (3)
+0005.887 (0) Total entities for the zip file: 4 directories, 25 files (0 skipped as non-modified), 2.4 MB
+0006.076 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip.tmp: size is now: 0.80 MB
+0006.117 (0) Created others zip (0) - 841.1 KB in 0.2 s (3502.8 KB/s) (sha1: 1eead1576bd714043a2bfab48f1207d2c5a63052, sha256: 0048efa0382d5a55a865a57e4867fa0391f179cfc1780652b6f25a8d5ee50cbe)
+0006.145 (0) Saving backup status to database (elements: 8)
+0006.159 (0) Beginning creation of database dump (WordPress DB)
+0006.174 (0) Testing: /usr/bin/mysqldump
+0006.237 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1214 bytes total)
+0006.245 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0006.285 (0) Table wp_options: Total expected rows (approximate): 144
+0006.377 (0) Table wp_options: Total rows added: 359 in 0.08 seconds
+0006.385 (0) Table wp_options: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_options.table.gz - 174.5 KB)
+0006.409 (0) Table wp_users: Total expected rows (approximate): 1
+0006.418 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0006.425 (0) Table wp_users: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_users.table.gz - 0.5 KB)
+0006.442 (0) Table wp_usermeta: Total expected rows (approximate): 25
+0006.450 (0) Table wp_usermeta: Total rows added: 25 in 0.00 seconds
+0006.457 (0) Table wp_usermeta: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_usermeta.table.gz - 1.4 KB)
+0006.473 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0006.481 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0006.491 (0) Table wp_commentmeta: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0006.516 (0) Table wp_comments: Total expected rows (approximate): 1
+0006.523 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0006.529 (0) Table wp_comments: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_comments.table.gz - 0.7 KB)
+0006.545 (0) Table wp_links: Total expected rows (approximate): 0
+0006.554 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0006.561 (0) Table wp_links: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_links.table.gz - 0.4 KB)
+0006.582 (0) Table wp_postmeta: Total expected rows (approximate): 693
+0006.656 (0) Table wp_postmeta: Total rows added: 794 in 0.07 seconds
+0006.664 (0) Table wp_postmeta: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_postmeta.table.gz - 79.1 KB)
+0006.698 (0) Table wp_posts: Total expected rows (approximate): 257
+0006.751 (0) Table wp_posts: Total rows added: 264 in 0.05 seconds
+0006.757 (0) Table wp_posts: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_posts.table.gz - 35.2 KB)
+0006.780 (0) Table wp_term_relationships: Total expected rows (approximate): 9
+0006.787 (0) Table wp_term_relationships: Total rows added: 9 in 0.00 seconds
+0006.794 (0) Table wp_term_relationships: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0006.816 (0) Table wp_term_taxonomy: Total expected rows (approximate): 4
+0006.826 (0) Table wp_term_taxonomy: Total rows added: 4 in 0.00 seconds
+0006.833 (0) Table wp_term_taxonomy: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0006.857 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0006.864 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0006.869 (0) Table wp_termmeta: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_termmeta.table.gz - 0.4 KB)
+0006.892 (0) Table wp_terms: Total expected rows (approximate): 4
+0006.914 (0) Table wp_terms: Total rows added: 4 in 0.00 seconds
+0006.922 (0) Table wp_terms: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_terms.table.gz - 0.4 KB)
+0006.944 (0) Table wp_huge_itslider_images: Total expected rows (approximate): 3
+0006.953 (0) Table wp_huge_itslider_images: Total rows added: 3 in 0.00 seconds
+0006.961 (0) Table wp_huge_itslider_images: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_huge_itslider_images.table.gz - 0.7 KB)
+0006.980 (0) Table wp_huge_itslider_params: Total expected rows (approximate): 44
+0006.989 (0) Table wp_huge_itslider_params: Total rows added: 44 in 0.00 seconds
+0006.996 (0) Table wp_huge_itslider_params: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_huge_itslider_params.table.gz - 1.1 KB)
+0007.013 (0) Table wp_huge_itslider_sliders: Total expected rows (approximate): 1
+0007.021 (0) Table wp_huge_itslider_sliders: Total rows added: 1 in 0.00 seconds
+0007.028 (0) Table wp_huge_itslider_sliders: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_huge_itslider_sliders.table.gz - 0.5 KB)
+0007.048 (0) Table wp_nf3_action_meta: Total expected rows (approximate): 82
+0007.060 (0) Table wp_nf3_action_meta: Total rows added: 82 in 0.01 seconds
+0007.068 (0) Table wp_nf3_action_meta: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_action_meta.table.gz - 1.3 KB)
+0007.098 (0) Table wp_nf3_actions: Total expected rows (approximate): 4
+0007.120 (0) Table wp_nf3_actions: Total rows added: 4 in 0.01 seconds
+0007.129 (0) Table wp_nf3_actions: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_actions.table.gz - 0.5 KB)
+0007.148 (0) Table wp_nf3_field_meta: Total expected rows (approximate): 268
+0007.163 (0) Table wp_nf3_field_meta: Total rows added: 268 in 0.01 seconds
+0007.169 (0) Table wp_nf3_field_meta: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_field_meta.table.gz - 2.2 KB)
+0007.188 (0) Table wp_nf3_fields: Total expected rows (approximate): 4
+0007.198 (0) Table wp_nf3_fields: Total rows added: 4 in 0.01 seconds
+0007.205 (0) Table wp_nf3_fields: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_fields.table.gz - 0.5 KB)
+0007.297 (0) Table wp_nf3_form_meta: Total expected rows (approximate): 107
+0007.310 (0) Table wp_nf3_form_meta: Total rows added: 107 in 0.01 seconds
+0007.317 (0) Table wp_nf3_form_meta: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_form_meta.table.gz - 1.3 KB)
+0007.340 (0) Table wp_nf3_forms: Total expected rows (approximate): 1
+0007.355 (0) Table wp_nf3_forms: Total rows added: 1 in 0.00 seconds
+0007.361 (0) Table wp_nf3_forms: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_forms.table.gz - 0.4 KB)
+0007.381 (0) Table wp_nf3_object_meta: Total expected rows (approximate): 0
+0007.395 (0) Table wp_nf3_object_meta: Total rows added: 0 in 0.00 seconds
+0007.401 (0) Table wp_nf3_object_meta: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_object_meta.table.gz - 0.3 KB)
+0007.497 (0) Table wp_nf3_objects: Total expected rows (approximate): 0
+0007.511 (0) Table wp_nf3_objects: Total rows added: 0 in 0.00 seconds
+0007.517 (0) Table wp_nf3_objects: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_objects.table.gz - 0.4 KB)
+0007.534 (0) Table wp_nf3_relationships: Total expected rows (approximate): 0
+0007.543 (0) Table wp_nf3_relationships: Total rows added: 0 in 0.00 seconds
+0007.549 (0) Table wp_nf3_relationships: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_relationships.table.gz - 0.4 KB)
+0007.569 (0) Table wp_smush_dir_images: Total expected rows (approximate): 0
+0007.578 (0) Table wp_smush_dir_images: Total rows added: 0 in 0.00 seconds
+0007.585 (0) Table wp_smush_dir_images: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_smush_dir_images.table.gz - 0.4 KB)
+0007.690 (0) Table wp_wfBadLeechers: Total expected rows (approximate): 0
+0007.698 (0) Table wp_wfBadLeechers: Total rows added: 0 in 0.00 seconds
+0007.710 (0) Table wp_wfBadLeechers: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfBadLeechers.table.gz - 0.3 KB)
+0007.737 (0) Table wp_wfBlockedIPLog: Total expected rows (approximate): 1
+0007.745 (0) Table wp_wfBlockedIPLog: Total rows added: 1 in 0.00 seconds
+0007.752 (0) Table wp_wfBlockedIPLog: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfBlockedIPLog.table.gz - 0.4 KB)
+0007.771 (0) Table wp_wfBlocks: Total expected rows (approximate): 0
+0007.778 (0) Table wp_wfBlocks: Total rows added: 0 in 0.00 seconds
+0007.785 (0) Table wp_wfBlocks: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfBlocks.table.gz - 0.4 KB)
+0007.806 (0) Table wp_wfBlocksAdv: Total expected rows (approximate): 0
+0007.814 (0) Table wp_wfBlocksAdv: Total rows added: 0 in 0.00 seconds
+0007.821 (0) Table wp_wfBlocksAdv: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfBlocksAdv.table.gz - 0.3 KB)
+0007.876 (0) Table wp_wfConfig: Total expected rows (approximate): 162
+0007.903 (0) Table wp_wfConfig: Total rows added: 174 in 0.02 seconds
+0007.909 (0) Table wp_wfConfig: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfConfig.table.gz - 232.5 KB)
+0007.926 (0) Table wp_wfCrawlers: Total expected rows (approximate): 25
+0007.934 (0) Table wp_wfCrawlers: Total rows added: 25 in 0.00 seconds
+0007.940 (0) Table wp_wfCrawlers: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfCrawlers.table.gz - 0.8 KB)
+0007.958 (0) Table wp_wfFileMods: Total expected rows (approximate): 3800
+0008.190 (0) Table wp_wfFileMods: Total rows added: 3682 in 0.23 seconds
+0008.197 (0) Table wp_wfFileMods: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfFileMods.table.gz - 307.9 KB)
+0008.216 (0) Table wp_wfHits: Total expected rows (approximate): 721
+0008.265 (0) Table wp_wfHits: Total rows added: 642 in 0.04 seconds
+0008.273 (0) Table wp_wfHits: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfHits.table.gz - 15 KB)
+0008.296 (0) Table wp_wfHoover: Total expected rows (approximate): 0
+0008.305 (0) Table wp_wfHoover: Total rows added: 0 in 0.00 seconds
+0008.313 (0) Table wp_wfHoover: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfHoover.table.gz - 0.3 KB)
+0008.333 (0) Table wp_wfIssues: Total expected rows (approximate): 2
+0008.339 (0) Table wp_wfIssues: Total rows added: 2 in 0.00 seconds
+0008.345 (0) Table wp_wfIssues: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfIssues.table.gz - 1.3 KB)
+0008.362 (0) Table wp_wfKnownFileList: Total expected rows (approximate): 3607
+0008.432 (0) Table wp_wfKnownFileList: Total rows added: 3682 in 0.06 seconds
+0008.437 (0) Table wp_wfKnownFileList: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfKnownFileList.table.gz - 35 KB)
+0008.455 (0) Table wp_wfLeechers: Total expected rows (approximate): 75
+0008.463 (0) Table wp_wfLeechers: Total rows added: 75 in 0.00 seconds
+0008.469 (0) Table wp_wfLeechers: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfLeechers.table.gz - 0.8 KB)
+0008.497 (0) Table wp_wfLockedOut: Total expected rows (approximate): 0
+0008.505 (0) Table wp_wfLockedOut: Total rows added: 0 in 0.00 seconds
+0008.512 (0) Table wp_wfLockedOut: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfLockedOut.table.gz - 0.3 KB)
+0008.529 (0) Table wp_wfLocs: Total expected rows (approximate): 0
+0008.537 (0) Table wp_wfLocs: Total rows added: 0 in 0.00 seconds
+0008.544 (0) Table wp_wfLocs: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfLocs.table.gz - 0.4 KB)
+0008.559 (0) Table wp_wfLogins: Total expected rows (approximate): 13
+0008.566 (0) Table wp_wfLogins: Total rows added: 13 in 0.00 seconds
+0008.573 (0) Table wp_wfLogins: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfLogins.table.gz - 0.8 KB)
+0008.592 (0) Table wp_wfNet404s: Total expected rows (approximate): 0
+0008.598 (0) Table wp_wfNet404s: Total rows added: 0 in 0.00 seconds
+0008.604 (0) Table wp_wfNet404s: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfNet404s.table.gz - 0.3 KB)
+0008.621 (0) Table wp_wfNotifications: Total expected rows (approximate): 10
+0008.629 (0) Table wp_wfNotifications: Total rows added: 10 in 0.00 seconds
+0008.636 (0) Table wp_wfNotifications: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfNotifications.table.gz - 2.7 KB)
+0008.651 (0) Table wp_wfPendingIssues: Total expected rows (approximate): 0
+0008.658 (0) Table wp_wfPendingIssues: Total rows added: 0 in 0.00 seconds
+0008.663 (0) Table wp_wfPendingIssues: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfPendingIssues.table.gz - 0.4 KB)
+0008.682 (0) Table wp_wfReverseCache: Total expected rows (approximate): 2
+0008.694 (0) Table wp_wfReverseCache: Total rows added: 2 in 0.00 seconds
+0008.707 (0) Table wp_wfReverseCache: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfReverseCache.table.gz - 0.4 KB)
+0008.725 (0) Table wp_wfSNIPCache: Total expected rows (approximate): 0
+0008.733 (0) Table wp_wfSNIPCache: Total rows added: 0 in 0.00 seconds
+0008.739 (0) Table wp_wfSNIPCache: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfSNIPCache.table.gz - 0.4 KB)
+0008.757 (0) Table wp_wfScanners: Total expected rows (approximate): 0
+0008.765 (0) Table wp_wfScanners: Total rows added: 0 in 0.00 seconds
+0008.772 (0) Table wp_wfScanners: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfScanners.table.gz - 0.3 KB)
+0008.794 (0) Table wp_wfStatus: Total expected rows (approximate): 937
+0008.833 (0) Table wp_wfStatus: Total rows added: 972 in 0.03 seconds
+0008.841 (0) Table wp_wfStatus: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfStatus.table.gz - 14.5 KB)
+0008.868 (0) Table wp_wfThrottleLog: Total expected rows (approximate): 0
+0008.875 (0) Table wp_wfThrottleLog: Total rows added: 0 in 0.00 seconds
+0008.881 (0) Table wp_wfThrottleLog: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfThrottleLog.table.gz - 0.3 KB)
+0008.905 (0) Table wp_wfVulnScanners: Total expected rows (approximate): 0
+0008.925 (0) Table wp_wfVulnScanners: Total rows added: 0 in 0.00 seconds
+0008.937 (0) Table wp_wfVulnScanners: finishing file (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfVulnScanners.table.gz - 0.3 KB)
+0008.960 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_options.table.gz (1/49): adding to final database dump
+0009.004 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_users.table.gz (2/49): adding to final database dump
+0009.012 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_usermeta.table.gz (3/49): adding to final database dump
+0009.017 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_commentmeta.table.gz (4/49): adding to final database dump
+0009.023 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_comments.table.gz (5/49): adding to final database dump
+0009.029 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_links.table.gz (6/49): adding to final database dump
+0009.035 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_postmeta.table.gz (7/49): adding to final database dump
+0009.070 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_posts.table.gz (8/49): adding to final database dump
+0009.093 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_term_relationships.table.gz (9/49): adding to final database dump
+0009.101 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_term_taxonomy.table.gz (10/49): adding to final database dump
+0009.109 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_termmeta.table.gz (11/49): adding to final database dump
+0009.115 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_terms.table.gz (12/49): adding to final database dump
+0009.120 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_huge_itslider_images.table.gz (13/49): adding to final database dump
+0009.126 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_huge_itslider_params.table.gz (14/49): adding to final database dump
+0009.133 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_huge_itslider_sliders.table.gz (15/49): adding to final database dump
+0009.140 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_action_meta.table.gz (16/49): adding to final database dump
+0009.147 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_actions.table.gz (17/49): adding to final database dump
+0009.153 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_field_meta.table.gz (18/49): adding to final database dump
+0009.162 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_fields.table.gz (19/49): adding to final database dump
+0009.169 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_form_meta.table.gz (20/49): adding to final database dump
+0009.177 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_forms.table.gz (21/49): adding to final database dump
+0009.185 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_object_meta.table.gz (22/49): adding to final database dump
+0009.191 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_objects.table.gz (23/49): adding to final database dump
+0009.196 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_nf3_relationships.table.gz (24/49): adding to final database dump
+0009.204 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_smush_dir_images.table.gz (25/49): adding to final database dump
+0009.212 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfBadLeechers.table.gz (26/49): adding to final database dump
+0009.217 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfBlockedIPLog.table.gz (27/49): adding to final database dump
+0009.223 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfBlocks.table.gz (28/49): adding to final database dump
+0009.228 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfBlocksAdv.table.gz (29/49): adding to final database dump
+0009.233 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfConfig.table.gz (30/49): adding to final database dump
+0009.255 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfCrawlers.table.gz (31/49): adding to final database dump
+0009.262 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfFileMods.table.gz (32/49): adding to final database dump
+0009.337 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfHits.table.gz (33/49): adding to final database dump
+0009.353 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfHoover.table.gz (34/49): adding to final database dump
+0009.361 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfIssues.table.gz (35/49): adding to final database dump
+0009.368 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfKnownFileList.table.gz (36/49): adding to final database dump
+0009.402 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfLeechers.table.gz (37/49): adding to final database dump
+0009.410 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfLockedOut.table.gz (38/49): adding to final database dump
+0009.416 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfLocs.table.gz (39/49): adding to final database dump
+0009.422 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfLogins.table.gz (40/49): adding to final database dump
+0009.429 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfNet404s.table.gz (41/49): adding to final database dump
+0009.436 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfNotifications.table.gz (42/49): adding to final database dump
+0009.441 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfPendingIssues.table.gz (43/49): adding to final database dump
+0009.447 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfReverseCache.table.gz (44/49): adding to final database dump
+0009.453 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfSNIPCache.table.gz (45/49): adding to final database dump
+0009.459 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfScanners.table.gz (46/49): adding to final database dump
+0009.464 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfStatus.table.gz (47/49): adding to final database dump
+0009.478 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfThrottleLog.table.gz (48/49): adding to final database dump
+0009.485 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db-table-wp_wfVulnScanners.table.gz (49/49): adding to final database dump
+0009.492 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz: finished writing out complete database file (880 KB)
+0009.532 (0) Total database tables backed up: 49 (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz, size: 932607, sha256)
+0009.557 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0009.563 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0009.568 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0009.573 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip: others: This file has not yet been successfully uploaded: will queue
+0009.579 (0) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz: db: This file has not yet been successfully uploaded: will queue
+0009.583 (0) Saving backup history. Total backup size: 25.9 MB
+0009.603 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0009.625 (0) Cloud backup selection (1/1): dropbox (last)
+0009.631 (0) Beginning dispatch of backup to remote (dropbox)
+0009.637 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0009.645 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0010.335 (0) Dropbox account/info did not return HTTP 200; returned: 401
+0010.341 (0) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip
+0015.987 (0) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0015.993 (0) Dropbox error: Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0015.999 (0) An error condition has occurred for the first time during this job
+0018.805 (0) Dropbox account/info did not return HTTP 200; returned: 401
+0018.812 (0) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip
+0023.845 (0) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0023.853 (0) Dropbox error: Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0026.137 (0) Dropbox account/info did not return HTTP 200; returned: 401
+0026.144 (0) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip
+0031.685 (0) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0031.693 (0) Dropbox error: Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0034.507 (0) Dropbox account/info did not return HTTP 200; returned: 401
+0034.512 (0) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip
+0039.461 (0) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/finish": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0039.468 (0) Dropbox error: Error in call to API function "files/upload_session/finish": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0041.952 (0) Dropbox account/info did not return HTTP 200; returned: 401
+0041.957 (0) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz
+0049.842 (0) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/finish": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0049.850 (0) Dropbox error: Error in call to API function "files/upload_session/finish": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0049.865 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0049.873 (0) Number of backup sets in history: 2; groups (db): 1
+0049.879 (0) Examining (for databases) backup set with group_id=0, nonce=24ccbb6b2243, datestamp=1496160698 (May 30 2017 16:11:38)
+0049.885 (0) This backup set is the backup set just made, so will not be deleted.
+0049.891 (0) Examining (for databases) backup set with group_id=0, nonce=5a8b1674b431, datestamp=1496160263 (May 30 2017 16:04:23)
+0049.896 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0049.903 (0) Number of backup sets in history: 2; groups (files): 1
+0049.908 (0) Examining (for files) backup set with nonce=24ccbb6b2243, datestamp=1496160698 (May 30 2017 16:11:38)
+0049.913 (0) This backup set is the backup set just made, so will not be deleted.
+0049.919 (0) This backup set is the backup set just made, so will not be deleted.
+0049.920 (0) This backup set is the backup set just made, so will not be deleted.
+0049.920 (0) This backup set is the backup set just made, so will not be deleted.
+0049.920 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0049.925 (0) Examining (for files) backup set with nonce=5a8b1674b431, datestamp=1496160263 (May 30 2017 16:04:23)
+0049.929 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0049.936 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0049.953 (0) Resume backup (24ccbb6b2243, 0): finish run
+0049.968 (0) Decremented the semaphore (fd) by 1
+0049.976 (0) Semaphore (fd) unlocked
+0049.981 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0049.996 (0) Rescheduling resumption 1: moving to 120 seconds from now (1496160868)
+0050.005 (0) No email will/can be sent - the user has not configured an email address.
+0050.010 (0) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+0186.677 (1) Opened log file at time: Tue, 30 May 2017 16:14:45 +0000 on https://smartmaskinering-ttgmagnus.c9users.io
+0186.683 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.1 WP: 4.7.5 PHP: 5.5.9-1ubuntu4.21 (apache2handler, Linux ttgmagnus-smartmaskinering-4522556 4.9.17-c9 #1 SMP Thu Mar 23 01:38:54 UTC 2017 x86_64) MySQL: 5.5.54 WPLANG: nb_NO Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.7M | 11.5M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0186.688 (1) Free space on disk containing Updraft's temporary directory: 1868.3 MB
+0186.699 (1) Backup run: resumption=1, nonce=24ccbb6b2243, begun at=1496160698 (187s ago), job type=backup, previous check-in=8.9s
+0186.708 (1) Scheduling a resumption (2) after 300 seconds (1496161185) in case this run gets aborted
+0186.717 (1) Checking if we have a zip executable available
+0186.723 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0186.727 (1) Creation of backups of directories: already finished
+0186.732 (1) Saving backup status to database (elements: 8)
+0186.741 (1) Database dump (WordPress DB): Creation was completed already
+0186.757 (1) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0186.763 (1) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0186.768 (1) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0186.773 (1) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip: others: This file has not yet been successfully uploaded: will queue
+0186.777 (1) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz: db: This file has not yet been successfully uploaded: will queue
+0186.781 (1) Saving backup history. Total backup size: 25.9 MB
+0186.793 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0186.803 (1) Cloud backup selection (1/1): dropbox (last)
+0186.807 (1) Beginning dispatch of backup to remote (dropbox)
+0186.812 (1) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0186.817 (1) Dropbox: access gained; setting chunk size to: 1024 KB
+0187.503 (1) Dropbox account/info did not return HTTP 200; returned: 401
+0187.508 (1) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip
+0193.033 (1) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0193.041 (1) Dropbox error: Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0193.047 (1) An error condition has occurred for the first time during this job
+0195.830 (1) Dropbox account/info did not return HTTP 200; returned: 401
+0195.837 (1) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip
+0200.737 (1) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0200.744 (1) Dropbox error: Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0204.508 (1) Dropbox account/info did not return HTTP 200; returned: 401
+0204.516 (1) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip
+0210.055 (1) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0210.061 (1) Dropbox error: Error in call to API function "files/upload_session/append_v2": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0212.973 (1) Dropbox account/info did not return HTTP 200; returned: 401
+0212.980 (1) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip
+0217.867 (1) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/finish": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0217.876 (1) Dropbox error: Error in call to API function "files/upload_session/finish": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0220.369 (1) Dropbox account/info did not return HTTP 200; returned: 401
+0220.376 (1) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz
+0225.478 (1) Dropbox chunked upload exception (Dropbox_BadRequestException): Error in call to API function "files/upload_session/finish": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null (line: 216, file: /home/ubuntu/workspace/wp-content/plugins/updraftplus/includes/Dropbox2/OAuth/Consumer/Curl.php)
+0225.485 (1) Dropbox error: Error in call to API function "files/upload_session/finish": HTTP header "Dropbox-API-Arg": cursor.session_id: 'None' expected to be a string, got null
+0225.496 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0225.501 (1) Number of backup sets in history: 2; groups (db): 1
+0225.505 (1) Examining (for databases) backup set with group_id=0, nonce=24ccbb6b2243, datestamp=1496160698 (May 30 2017 16:11:38)
+0225.509 (1) This backup set is the backup set just made, so will not be deleted.
+0225.513 (1) Examining (for databases) backup set with group_id=0, nonce=5a8b1674b431, datestamp=1496160263 (May 30 2017 16:04:23)
+0225.517 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0225.521 (1) Number of backup sets in history: 2; groups (files): 1
+0225.525 (1) Examining (for files) backup set with nonce=24ccbb6b2243, datestamp=1496160698 (May 30 2017 16:11:38)
+0225.529 (1) This backup set is the backup set just made, so will not be deleted.
+0225.677 (1) This backup set is the backup set just made, so will not be deleted.
+0225.683 (1) This backup set is the backup set just made, so will not be deleted.
+0225.683 (1) This backup set is the backup set just made, so will not be deleted.
+0225.684 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0225.688 (1) Examining (for files) backup set with nonce=5a8b1674b431, datestamp=1496160263 (May 30 2017 16:04:23)
+0225.692 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0225.697 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0225.707 (1) Resume backup (24ccbb6b2243, 1): finish run
+0225.716 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0225.727 (1) No email will/can be sent - the user has not configured an email address.
+0225.732 (1) Sikkerhetskopien ble ikke fullført. En gjenopptakelse har blitt planlagt.
+0506.978 (2) Opened log file at time: Tue, 30 May 2017 16:20:05 +0000 on https://smartmaskinering-ttgmagnus.c9users.io
+0507.077 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.1 WP: 4.7.5 PHP: 5.5.9-1ubuntu4.21 (apache2handler, Linux ttgmagnus-smartmaskinering-4522556 4.9.17-c9 #1 SMP Thu Mar 23 01:38:54 UTC 2017 x86_64) MySQL: 5.5.54 WPLANG: nb_NO Server: Apache/2.4.7 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.7M | 11.5M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0507.083 (2) Free space on disk containing Updraft's temporary directory: 1880.6 MB
+0507.098 (2) Backup run: resumption=2, nonce=24ccbb6b2243, begun at=1496160698 (507s ago), job type=backup
+0507.111 (2) Scheduling a resumption (3) after 300 seconds (1496161505) in case this run gets aborted
+0507.125 (2) Checking if we have a zip executable available
+0507.131 (2) Zip engine: found/will use a binary zip: /usr/bin/zip
+0507.137 (2) Creation of backups of directories: already finished
+0507.141 (2) Saving backup status to database (elements: 8)
+0507.156 (2) Database dump (WordPress DB): Creation was completed already
+0507.176 (2) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0507.181 (2) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0507.188 (2) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0507.193 (2) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip: others: This file has not yet been successfully uploaded: will queue
+0507.199 (2) backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz: db: This file has not yet been successfully uploaded: will queue
+0507.204 (2) Saving backup history. Total backup size: 25.9 MB
+0507.216 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+0507.228 (2) Cloud backup selection (1/1): dropbox (last)
+0507.233 (2) Beginning dispatch of backup to remote (dropbox)
+0507.242 (2) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0507.252 (2) Dropbox: access gained; setting chunk size to: 1024 KB
+0509.231 (2) Dropbox quota usage: used=13.4 MB, total=2048 MB, available=2034.6 MB
+0509.237 (2) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip
+0513.245 (2) Dropbox chunked upload: 7.4 % uploaded (AAAAAAAAAB-6Vg5T7oD7zg, 1048576, 2048 KB)
+0520.073 (2) Dropbox chunked upload: 22.1 % uploaded (AAAAAAAAAB-6Vg5T7oD7zg, 3145728, 2560 KB)
+0529.788 (2) Dropbox chunked upload: 40.6 % uploaded (AAAAAAAAAB-6Vg5T7oD7zg, 5767168, 2048 KB)
+0537.205 (2) Dropbox chunked upload: 55.3 % uploaded (AAAAAAAAAB-6Vg5T7oD7zg, 7864320, 2048 KB)
+0545.313 (2) Dropbox chunked upload: 70.1 % uploaded (AAAAAAAAAB-6Vg5T7oD7zg, 9961472, 2048 KB)
+0552.031 (2) Dropbox chunked upload: 84.9 % uploaded (AAAAAAAAAB-6Vg5T7oD7zg, 12058624, 2560 KB)
+0561.461 (2) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAB-6Vg5T7oD7zg, 14209359, 2560 KB)
+0564.657 (2) Recording as successfully uploaded: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip (07728206ad5715881fd5f917b650b1d8)
+0564.684 (2) Deleting local file: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip: OK
+0564.691 (2) Dropbox: File upload success (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-plugins.zip): 13876 KB in 55s (250 KB/s)
+0565.522 (2) Dropbox quota usage: used=26.9 MB, total=2048 MB, available=2021.1 MB
+0565.529 (2) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip
+0570.263 (2) Dropbox chunked upload: 100 % uploaded (AAAAAAAAACBZWdIE9h6dEw, 1730752, 2560 KB)
+0574.628 (2) Recording as successfully uploaded: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip (a3c7b721cfd5b063394fff01a6a83dea)
+0574.646 (2) Deleting local file: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip: OK
+0574.653 (2) Dropbox: File upload success (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-themes.zip): 1690 KB in 9s (185 KB/s)
+0575.404 (2) Dropbox quota usage: used=28.6 MB, total=2048 MB, available=2019.4 MB
+0575.411 (2) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip
+0581.919 (2) Dropbox chunked upload: 28 % uploaded (AAAAAAAAACF-L4Y0T_s8wg, 2621440, 3072 KB)
+0591.401 (2) Dropbox chunked upload: 61.5 % uploaded (AAAAAAAAACF-L4Y0T_s8wg, 5767168, 2560 KB)
+0599.464 (2) Dropbox chunked upload: 89.4 % uploaded (AAAAAAAAACF-L4Y0T_s8wg, 8388608, 2560 KB)
+0602.889 (2) Dropbox chunked upload: 100 % uploaded (AAAAAAAAACF-L4Y0T_s8wg, 9379015, 2560 KB)
+0605.736 (2) Recording as successfully uploaded: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip (f118ff9c34cef1493aee1686d86652c5)
+0605.754 (2) Deleting local file: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip: OK
+0605.760 (2) Dropbox: File upload success (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-uploads.zip): 9159 KB in 30s (301 KB/s)
+0606.534 (2) Dropbox quota usage: used=37.5 MB, total=2048 MB, available=2010.5 MB
+0606.541 (2) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip
+0610.249 (2) Dropbox chunked upload: 100 % uploaded (AAAAAAAAACKRwH8CJXCRHw, 861294, 2560 KB)
+0612.741 (2) Recording as successfully uploaded: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip (bff037f43a3be6fe0a5512893353ab8d)
+0612.756 (2) Deleting local file: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip: OK
+0612.761 (2) Dropbox: File upload success (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-others.zip): 841 KB in 6s (135 KB/s)
+0613.503 (2) Dropbox quota usage: used=38.3 MB, total=2048 MB, available=2009.7 MB
+0613.509 (2) Dropbox: Attempt to upload: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz to: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz
+0617.375 (2) Dropbox chunked upload: 100 % uploaded (AAAAAAAAACNuYJ7wC2nrZA, 932607, 2560 KB)
+0620.336 (2) Recording as successfully uploaded: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz (902285053ba22bd8301798aa50db0594)
+0620.353 (2) Deleting local file: backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz: OK
+0620.359 (2) Dropbox: File upload success (backup_2017-05-30-1811_Smart_Maskinering_24ccbb6b2243-db.gz): 910 KB in 6s (132 KB/s)
+0620.372 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0620.377 (2) Number of backup sets in history: 2; groups (db): 1
+0620.383 (2) Examining (for databases) backup set with group_id=0, nonce=24ccbb6b2243, datestamp=1496160698 (May 30 2017 16:11:38)
+0620.473 (2) This backup set is the backup set just made, so will not be deleted.
+0620.479 (2) Examining (for databases) backup set with group_id=0, nonce=5a8b1674b431, datestamp=1496160263 (May 30 2017 16:04:23)
+0620.484 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0620.489 (2) Number of backup sets in history: 2; groups (files): 1
+0620.495 (2) Examining (for files) backup set with nonce=24ccbb6b2243, datestamp=1496160698 (May 30 2017 16:11:38)
+0620.499 (2) This backup set is the backup set just made, so will not be deleted.
+0620.504 (2) This backup set is the backup set just made, so will not be deleted.
+0620.504 (2) This backup set is the backup set just made, so will not be deleted.
+0620.505 (2) This backup set is the backup set just made, so will not be deleted.
+0620.505 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0620.511 (2) Examining (for files) backup set with nonce=5a8b1674b431, datestamp=1496160263 (May 30 2017 16:04:23)
+0620.516 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0620.520 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0620.533 (2) Resume backup (24ccbb6b2243, 2): finish run
+0620.544 (2) There were no errors in the uploads, so the 'resume' event (3) is being unscheduled
+0620.561 (2) The backup apparently succeeded and is now complete
+0620.568 (2) No email will/can be sent - the user has not configured an email address.
+0620.572 (2) Sikkerhetskopieringen er fullført.

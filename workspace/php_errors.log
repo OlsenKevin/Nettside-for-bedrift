@@ -1,0 +1,258 @@
+[07-Mar-2017 15:29:52 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 36
+[07-Mar-2017 15:29:52 UTC] PHP Stack trace:
+[07-Mar-2017 15:29:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/customize.php:0
+[07-Mar-2017 15:29:52 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/customize.php:13
+[07-Mar-2017 15:29:52 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[07-Mar-2017 15:29:52 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:29:52 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:29:52 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:29:52 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:29:52 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:29:52 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:29:52 UTC] PHP  10. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:29:55 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 36
+[07-Mar-2017 15:29:55 UTC] PHP Stack trace:
+[07-Mar-2017 15:29:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[07-Mar-2017 15:29:55 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[07-Mar-2017 15:29:55 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:29:55 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:29:55 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:29:55 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:29:55 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:29:55 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:29:55 UTC] PHP   9. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:30:00 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 36
+[07-Mar-2017 15:30:00 UTC] PHP Stack trace:
+[07-Mar-2017 15:30:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[07-Mar-2017 15:30:00 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[07-Mar-2017 15:30:00 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:30:00 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:30:00 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:30:00 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:30:00 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:30:00 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:30:00 UTC] PHP   9. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:30:08 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 36
+[07-Mar-2017 15:30:08 UTC] PHP Stack trace:
+[07-Mar-2017 15:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[07-Mar-2017 15:30:08 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[07-Mar-2017 15:30:08 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:30:08 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:30:08 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:30:08 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:30:08 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:30:08 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:30:08 UTC] PHP   9. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:13 UTC] PHP Fatal error:  Class 'constructzine_lite_Theme_Support_Subheader' not found in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 155
+[07-Mar-2017 15:33:13 UTC] PHP Stack trace:
+[07-Mar-2017 15:33:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/customize.php:0
+[07-Mar-2017 15:33:13 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/customize.php:13
+[07-Mar-2017 15:33:13 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[07-Mar-2017 15:33:13 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:33:13 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:33:13 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:470
+[07-Mar-2017 15:33:13 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:33:13 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:33:13 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:13 UTC] PHP  10. WP_Customize_Manager->wp_loaded() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:13 UTC] PHP  11. do_action() /home/ubuntu/workspace/wp-includes/class-wp-customize-manager.php:734
+[07-Mar-2017 15:33:13 UTC] PHP  12. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:33:13 UTC] PHP  13. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:33:13 UTC] PHP  14. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:13 UTC] PHP  15. ti_constructzine_customizer() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:26 UTC] PHP Fatal error:  Class 'constructzine_lite_Theme_Support_Subheader' not found in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 155
+[07-Mar-2017 15:33:26 UTC] PHP Stack trace:
+[07-Mar-2017 15:33:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[07-Mar-2017 15:33:26 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[07-Mar-2017 15:33:26 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:33:26 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:33:26 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:470
+[07-Mar-2017 15:33:26 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:33:26 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:33:26 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:26 UTC] PHP   9. WP_Customize_Manager->wp_loaded() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:26 UTC] PHP  10. do_action() /home/ubuntu/workspace/wp-includes/class-wp-customize-manager.php:734
+[07-Mar-2017 15:33:26 UTC] PHP  11. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:33:26 UTC] PHP  12. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:33:26 UTC] PHP  13. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:26 UTC] PHP  14. ti_constructzine_customizer() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:27 UTC] PHP Fatal error:  Class 'constructzine_lite_Theme_Support_Subheader' not found in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 155
+[07-Mar-2017 15:33:27 UTC] PHP Stack trace:
+[07-Mar-2017 15:33:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/customize.php:0
+[07-Mar-2017 15:33:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/customize.php:13
+[07-Mar-2017 15:33:27 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[07-Mar-2017 15:33:27 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:33:27 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:33:27 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:470
+[07-Mar-2017 15:33:27 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:33:27 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:33:27 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:27 UTC] PHP  10. WP_Customize_Manager->wp_loaded() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:27 UTC] PHP  11. do_action() /home/ubuntu/workspace/wp-includes/class-wp-customize-manager.php:734
+[07-Mar-2017 15:33:27 UTC] PHP  12. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:33:27 UTC] PHP  13. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:33:27 UTC] PHP  14. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:33:27 UTC] PHP  15. ti_constructzine_customizer() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 584
+[07-Mar-2017 15:48:00 UTC] PHP Stack trace:
+[07-Mar-2017 15:48:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[07-Mar-2017 15:48:00 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[07-Mar-2017 15:48:00 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[07-Mar-2017 15:48:00 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:48:00 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:48:00 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:48:00 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:48:00 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:48:00 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:00 UTC] PHP  10. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 584
+[07-Mar-2017 15:48:04 UTC] PHP Stack trace:
+[07-Mar-2017 15:48:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/customize.php:0
+[07-Mar-2017 15:48:04 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/customize.php:13
+[07-Mar-2017 15:48:04 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[07-Mar-2017 15:48:04 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:48:04 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:48:04 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:48:04 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:48:04 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:48:04 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:04 UTC] PHP  10. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 584
+[07-Mar-2017 15:48:04 UTC] PHP Stack trace:
+[07-Mar-2017 15:48:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/customize.php:0
+[07-Mar-2017 15:48:04 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/customize.php:13
+[07-Mar-2017 15:48:04 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[07-Mar-2017 15:48:04 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:48:04 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:48:04 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:48:04 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:48:04 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:48:04 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:04 UTC] PHP  10. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 584
+[07-Mar-2017 15:48:08 UTC] PHP Stack trace:
+[07-Mar-2017 15:48:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[07-Mar-2017 15:48:08 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[07-Mar-2017 15:48:08 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[07-Mar-2017 15:48:08 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:48:08 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:48:08 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:48:08 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:48:08 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:48:08 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:08 UTC] PHP  10. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 584
+[07-Mar-2017 15:48:16 UTC] PHP Stack trace:
+[07-Mar-2017 15:48:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[07-Mar-2017 15:48:16 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[07-Mar-2017 15:48:16 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[07-Mar-2017 15:48:16 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:48:16 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:48:16 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:48:16 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:48:16 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:48:16 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:16 UTC] PHP  10. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 584
+[07-Mar-2017 15:48:20 UTC] PHP Stack trace:
+[07-Mar-2017 15:48:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[07-Mar-2017 15:48:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[07-Mar-2017 15:48:20 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:48:20 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:48:20 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:48:20 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:48:20 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:48:20 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:20 UTC] PHP   9. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/themes/constructzine-lite/includes/customizer.php on line 584
+[07-Mar-2017 15:48:23 UTC] PHP Stack trace:
+[07-Mar-2017 15:48:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[07-Mar-2017 15:48:23 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[07-Mar-2017 15:48:23 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[07-Mar-2017 15:48:23 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Mar-2017 15:48:23 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[07-Mar-2017 15:48:23 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:433
+[07-Mar-2017 15:48:23 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Mar-2017 15:48:23 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Mar-2017 15:48:23 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Mar-2017 15:48:23 UTC] PHP  10. ti_constructzine_theme_setup() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[13-Mar-2017 13:55:09 UTC] PHP Warning:  readfile(/home/ubuntu/workspace/wp-content/uploads/2017/03/Constructzine-Lite.zip): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php on line 198
+[13-Mar-2017 13:55:09 UTC] PHP Stack trace:
+[13-Mar-2017 13:55:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[13-Mar-2017 13:55:09 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[13-Mar-2017 13:55:09 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[13-Mar-2017 13:55:09 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[13-Mar-2017 13:55:09 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[13-Mar-2017 13:55:09 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:326
+[13-Mar-2017 13:55:09 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[13-Mar-2017 13:55:09 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[13-Mar-2017 13:55:09 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[13-Mar-2017 13:55:09 UTC] PHP  10. ab_downloads() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[13-Mar-2017 13:55:09 UTC] PHP  11. ab_download() /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php:31
+[13-Mar-2017 13:55:09 UTC] PHP  12. readfile() /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php:198
+[13-Mar-2017 13:55:09 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/wp-content/uploads/2017/03/Constructzine-Lite.zip): No such file or directory in /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php on line 200
+[13-Mar-2017 13:55:09 UTC] PHP Stack trace:
+[13-Mar-2017 13:55:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[13-Mar-2017 13:55:09 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[13-Mar-2017 13:55:09 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[13-Mar-2017 13:55:09 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[13-Mar-2017 13:55:09 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[13-Mar-2017 13:55:09 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:326
+[13-Mar-2017 13:55:09 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[13-Mar-2017 13:55:09 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[13-Mar-2017 13:55:09 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[13-Mar-2017 13:55:09 UTC] PHP  10. ab_downloads() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[13-Mar-2017 13:55:09 UTC] PHP  11. ab_download() /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php:31
+[13-Mar-2017 13:55:09 UTC] PHP  12. unlink() /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php:200
+[13-Mar-2017 13:55:37 UTC] PHP Warning:  readfile(/home/ubuntu/workspace/wp-content/uploads/2017/03/Constructzine-Lite.zip): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php on line 198
+[13-Mar-2017 13:55:37 UTC] PHP Stack trace:
+[13-Mar-2017 13:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[13-Mar-2017 13:55:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[13-Mar-2017 13:55:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[13-Mar-2017 13:55:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[13-Mar-2017 13:55:37 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[13-Mar-2017 13:55:37 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:326
+[13-Mar-2017 13:55:37 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[13-Mar-2017 13:55:37 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[13-Mar-2017 13:55:37 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[13-Mar-2017 13:55:37 UTC] PHP  10. ab_downloads() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[13-Mar-2017 13:55:37 UTC] PHP  11. ab_download() /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php:31
+[13-Mar-2017 13:55:37 UTC] PHP  12. readfile() /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php:198
+[13-Mar-2017 13:55:37 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/wp-content/uploads/2017/03/Constructzine-Lite.zip): No such file or directory in /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php on line 200
+[13-Mar-2017 13:55:37 UTC] PHP Stack trace:
+[13-Mar-2017 13:55:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/index.php:0
+[13-Mar-2017 13:55:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/index.php:10
+[13-Mar-2017 13:55:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[13-Mar-2017 13:55:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[13-Mar-2017 13:55:37 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92
+[13-Mar-2017 13:55:37 UTC] PHP   6. do_action() /home/ubuntu/workspace/wp-settings.php:326
+[13-Mar-2017 13:55:37 UTC] PHP   7. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[13-Mar-2017 13:55:37 UTC] PHP   8. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[13-Mar-2017 13:55:37 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[13-Mar-2017 13:55:37 UTC] PHP  10. ab_downloads() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[13-Mar-2017 13:55:37 UTC] PHP  11. ab_download() /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php:31
+[13-Mar-2017 13:55:37 UTC] PHP  12. unlink() /home/ubuntu/workspace/wp-content/plugins/wp-theme-plugin-download/wp-theme-plugin-download.php:200
+[24-May-2017 18:31:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/wp-content/plugins/wp-super-cache/wp-cache.php on line 3094
+[24-May-2017 18:31:12 UTC] PHP Stack trace:
+[24-May-2017 18:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[24-May-2017 18:31:12 UTC] PHP   2. deactivate_plugins() /home/ubuntu/workspace/wp-admin/plugins.php:180
+[24-May-2017 18:31:12 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:704
+[24-May-2017 18:31:12 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[24-May-2017 18:31:12 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[24-May-2017 18:31:12 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[24-May-2017 18:31:12 UTC] PHP   7. wpsupercache_deactivate() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[24-May-2017 18:31:12 UTC] PHP   8. wp_cache_disable_plugin() /home/ubuntu/workspace/wp-content/plugins/wp-super-cache/wp-cache.php:157
+[24-May-2017 18:31:12 UTC] PHP   9. wpsc_get_htaccess_info() /home/ubuntu/workspace/wp-content/plugins/wp-super-cache/wp-cache.php:3403
+[24-May-2017 18:31:12 UTC] PHP  10. implode() /home/ubuntu/workspace/wp-content/plugins/wp-super-cache/wp-cache.php:3094
+[24-May-2017 18:31:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/ubuntu/workspace/wp-content/plugins/wp-super-cache/wp-cache.php on line 3096
+[24-May-2017 18:31:12 UTC] PHP Stack trace:
+[24-May-2017 18:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[24-May-2017 18:31:12 UTC] PHP   2. deactivate_plugins() /home/ubuntu/workspace/wp-admin/plugins.php:180
+[24-May-2017 18:31:12 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:704
+[24-May-2017 18:31:12 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[24-May-2017 18:31:12 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[24-May-2017 18:31:12 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[24-May-2017 18:31:12 UTC] PHP   7. wpsupercache_deactivate() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[24-May-2017 18:31:12 UTC] PHP   8. wp_cache_disable_plugin() /home/ubuntu/workspace/wp-content/plugins/wp-super-cache/wp-cache.php:157
+[24-May-2017 18:31:12 UTC] PHP   9. wpsc_get_htaccess_info() /home/ubuntu/workspace/wp-content/plugins/wp-super-cache/wp-cache.php:3403
+[24-May-2017 18:31:12 UTC] PHP  10. implode() /home/ubuntu/workspace/wp-content/plugins/wp-super-cache/wp-cache.php:3096
